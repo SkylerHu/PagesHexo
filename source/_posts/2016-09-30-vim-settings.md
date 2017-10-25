@@ -73,6 +73,7 @@ git clone https://github.com/Valloric/YouCompleteMe.git # python 自动补全
 git clone https://github.com/hynek/vim-python-pep8-indent # pep8 python语法 需要在项目虚拟环境下 pip install pep8
 git clone https://github.com/nvie/vim-flake8 # 代码风格检测 需要在项目虚拟环境下 pip install flake8
 git clone https://github.com/Yggdroot/indentLine  # 代码格式对齐线
+git clone https://github.com:scrooloose/nerdcommenter.git  # 快捷注释
 # git clone https://github.com/vim-ruby/vim-ruby # ruby插件
 cd YouCompleteMe
 git submodule update --init --recursive
@@ -109,6 +110,15 @@ set ruler           " 显示标尺
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
+"为不同的文件类型设置不同的空格数替换TAB
+autocmd FileType php,python,c,java,perl,shell,bash,vim,ruby,cpp set ai
+autocmd FileType php,python,c,java,perl,shell,bash,vim,ruby,cpp set sw=4
+autocmd FileType php,python,c,java,perl,shell,bash,vim,ruby,cpp set ts=4
+autocmd FileType php,python,c,java,perl,shell,bash,vim,ruby,cpp set sts=4
+autocmd FileType javascript,html,css,xml set ai
+autocmd FileType javascript,html,css,xml set sw=2
+autocmd FileType javascript,html,css,xml set ts=2
+autocmd FileType javascript,html,css,xml set sts=2
 set expandtab
 set nu
 set hlsearch
@@ -257,6 +267,10 @@ set path=.,,**
 "Yggdroot/indentLine
 let g:indentLine_char = '┊'
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" 注释的时候自动加个空格, 强迫症必配
+" let g:NERDSpaceDelims=1
+let mapleader=","
 ```
 
 ## 用 vundle 管理 vim 插件

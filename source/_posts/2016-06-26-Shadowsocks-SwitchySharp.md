@@ -4,6 +4,11 @@ date: 2016-06-26 18:56:08
 tags:
   - Shadowsocks
 ---
+
+> 若要申请VPS可使用这个[DigtalOcean](http://www.digitalocean.com/?refcode=a80753a9aac2)，会赠送你$10用于购买VPS。
+
+ShadowSocks[官网](http://shadowsocks.org/en/download/servers.html)
+
 #### 1. gcc安装
 
 ``` bash

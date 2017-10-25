@@ -4,10 +4,8 @@ date: 2016-06-26 18:46:54
 tags:
   - VPN
 ---
-### 分享链接：<http://www.digitalocean.com/?refcode=a80754a9aac2>
-若要申请VPS可使用这个链接，会赠送你10$费用可以购买VPS。
 
-----
+> 若要申请VPS可使用这个[DigtalOcean](http://www.digitalocean.com/?refcode=a80753a9aac2)，会赠送你$10用于购买VPS。
 
 采用PPTP搭建VPN，优点是配置简单快捷。将亲身过程记录下来供亲们参考，并将过程中遇到的问题也一一列举出来解决方式。。。
 
