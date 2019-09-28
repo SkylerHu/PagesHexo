@@ -9,7 +9,7 @@ tags:
 
 #### 效果图
 
-![计算器效果图](http://7xpdkx.com1.z0.glb.clouddn.com/2016/02/22/1d21dd1111.png)
+![计算器效果图](http://blog-img.skylerhu.com/2016/02/22/1d21dd1111.png)
 
 #### 运算代码CalculatorMathUtil.java
 

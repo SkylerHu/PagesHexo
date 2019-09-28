@@ -37,7 +37,7 @@ Head over to GitHub and create a new repository named username.github.io, where 
 ### 二、使用Jekyll
 
 上面新建的项目中，Settings中可以看到GitHubPages相关配置，官方推荐使用[Jekyll](http://jekyll.bootcss.com/)
-![GitHub Pages Settings](http://7xpdkx.com1.z0.glb.clouddn.com/2016/06/27/81479b8884.png)
+![GitHub Pages Settings](http://blog-img.skylerhu.com/2016/06/27/81479b8884.png)
 
 #### 1. 初始化
 

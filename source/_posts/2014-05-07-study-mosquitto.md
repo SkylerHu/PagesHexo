@@ -12,7 +12,7 @@ Mosquitto是一个开源(BSD许可证)的消息代理，实现MQTT(消息队列�
 
 为每个MQTT消息头命令消息包含一个固定头，头只有两个字节，格式如下：
 
-![消息头](http://7xpdkx.com1.z0.glb.clouddn.com/2016/02/22/21c8ff27db.png)
+![消息头](http://blog-img.skylerhu.com/2016/02/22/21c8ff27db.png)
 
 参考：<http://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/mqtt-v3r1.html#msg-format>
 

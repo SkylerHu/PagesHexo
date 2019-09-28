@@ -48,7 +48,7 @@ def my():
 
 * 微信公众号“带着bug看世界”，欢迎关注
 
-![带着bug看世界](http://7xpdkx.com1.z0.glb.clouddn.com/img/icon/qrcode_for_gh_82e51e608b99_258.jpg)
+![带着bug看世界](http://blog-img.skylerhu.com/img/icon/qrcode_for_gh_82e51e608b99_258.jpg)
 
 
 ## 特别鸣谢

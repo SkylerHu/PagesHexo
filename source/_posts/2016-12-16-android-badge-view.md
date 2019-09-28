@@ -10,7 +10,7 @@ tags:
 
 效果就是这样....
 
-![BadgeView_preview.gif](http://7xpdkx.com1.z0.glb.clouddn.com/gif/blog/BadgeView_preview.gif)
+![BadgeView_preview.gif](http://blog-img.skylerhu.com/gif/blog/BadgeView_preview.gif)
 
 一定要记得在`attrs.xml` 项目中添加
 

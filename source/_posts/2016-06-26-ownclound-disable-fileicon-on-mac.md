@@ -12,12 +12,12 @@ owncloud客户端在mac上使用，没有显示status icon(文件或者文件夹
 
 #### 1. 打开设置
 
-![Pic 01](http://7xpdkx.com1.z0.glb.clouddn.com/2016/05/10/91c7781082.png)
+![Pic 01](http://blog-img.skylerhu.com/2016/05/10/91c7781082.png)
 
 #### 2. 把勾给选中
 
-![Pic 02](http://7xpdkx.com1.z0.glb.clouddn.com/2016/05/10/8003ac235a.png)
+![Pic 02](http://blog-img.skylerhu.com/2016/05/10/8003ac235a.png)
 
 #### 3. 结果
 
-![Pic 03](http://7xpdkx.com1.z0.glb.clouddn.com/2016/05/10/e4a26526ea.png)
+![Pic 03](http://blog-img.skylerhu.com/2016/05/10/e4a26526ea.png)
