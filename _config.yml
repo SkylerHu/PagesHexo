@@ -84,4 +84,4 @@ deploy:
   type: git
   repo: git@github.com:SkylerHu/SkylerHu.github.io.git
   branch: master
-  message: add some blogs
+  message: change image domain

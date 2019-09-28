@@ -23,7 +23,6 @@ def my():
     name = "Skyler"
     nick_name = "快乐悲魂"
     real_name = "胡乐平"
-    company = "更美"	
 
     while true:
         coding
